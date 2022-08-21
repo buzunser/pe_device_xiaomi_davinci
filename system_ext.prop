@@ -1,0 +1,5 @@
+# Camera
+vendor.camera.aux.packagelist=com.android.camera
+
+# DPM
+persist.vendor.dpm.feature=11
