@@ -163,6 +163,10 @@ PRODUCT_PACKAGES += \
 #PRODUCT_PACKAGES += \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2021
+    
+# Dexpreopt
+PRODUCT_DEXPREOPT_SPEED_APPS += \
+    SystemUI
 
 # Component overrides
 PRODUCT_COPY_FILES += \
